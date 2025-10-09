@@ -87,3 +87,5 @@ Still open problems:
 * same subjects as in v1 for training and validation (we did not publish the additional subjects we used for TotalSegmentator v2 training)
 * a few more subjects than in v1 for testing
 * NOTE: labels for additional tasks are not included
+
+<!-- Auto-update: 2025-10-10T03:51:17.953399 -->
